@@ -5,7 +5,8 @@ __pycache__/
 hw1_solution/
 _extensions/
 presentation_files/
-
+.env
+.DS_Store
 # C extensions
 *.so
 
