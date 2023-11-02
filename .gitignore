@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 hw1_solution/
+hw2_solution/
 _extensions/
 presentation_files/
-
+.env
+.DS_Store
 # C extensions
 *.so
 
